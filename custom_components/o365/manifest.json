@@ -1,6 +1,7 @@
 {
     "domain": "o365",
     "name": "Office 365 Calendar",
+    "version": "2.1.8",
     "documentation": "https://github.com/PTST/O365Calendar-HomeAssistant",
     "dependencies": ["configurator", "http"],
     "codeowners": ["@PTST"],
